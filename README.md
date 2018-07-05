@@ -1,0 +1,2 @@
+# cseNoticeBoard
+This is a gesture-based notice board developed for The Department of Computer Science and Engineering in UET Lahore. It was installed in the main building of the department to replace the conventional paper-based notice board solution. Standing in front of the sensor and waving was the only requirement to navigate through the application and move between sections including announcements, timetables, and department information among others.
